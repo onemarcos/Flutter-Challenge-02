@@ -1,3 +1,3 @@
 # challenge02
 
-A simple layout challange during the process of learning Dart/Flutter.
+A simple layout challenge during the process of learning Dart/Flutter.
